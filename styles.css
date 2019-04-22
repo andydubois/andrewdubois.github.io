@@ -1,0 +1,44 @@
+body {
+    background-image: url(img/dark_wood.png);
+    font-family: 'open sans', sans-serif;
+    color: white;
+}
+
+h3 {
+    border-bottom: 1px solid #999;
+}
+
+div.job {
+    margin: 0px auto;
+    width: 60%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#contactInfo {
+    Text-align: right;
+    margin: 0px auto;
+    width: 75%;
+}
+
+#introduction {
+    margin: 0px auto;
+    width: 40%;
+    text-align: center;
+}
+header {
+    Text-align: right;
+    margin: 0px auto;
+    width: 75%;
+}
+
+.job{
+    border-color: black;
+    border: 1px;
+}
+
